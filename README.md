@@ -21,6 +21,5 @@ alone causes a measurable fraction of simulations to deviate significantly
 # Built with
 Python, SciPy, Matplotlib
 
-# Run it
+# Before running
 pip install scipy matplotlib
-python hwe.ipynb
