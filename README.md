@@ -16,11 +16,11 @@ sampled populations — not just on paper.
 HWE is often considered as if real populations should match it exactly. This project 
 shows that even when a population is *generated* to follow HWE, random sampling 
 alone causes a measurable fraction of simulations to deviate significantly 
-(p < 0.05) — proving the theory holds on average, but not in every finite sample.
+(p < 0.05), proving the theory holds on average, but not in every finite sample.
 
 # Built with
 Python, SciPy, Matplotlib
 
 # Run it
 pip install scipy matplotlib
-python hew.ipynb
+python hwe.ipynb
